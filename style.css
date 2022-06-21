@@ -1,7 +1,9 @@
 body {
     color: white;
-    background-color: 	#9F2B68;
+    
     font-size: %300;
+    background-color: #008080;
+    
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
 }
